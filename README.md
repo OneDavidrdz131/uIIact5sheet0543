@@ -22,6 +22,6 @@ samples, guidance on mobile development, and a full API reference.
 https://www.youtube.com/watch?v=pbjCTDZmAWw
 
 ## trabajo terminado 
-![image](https://github.com/OneDavidrdz131/uIIact5sheet0543/assets/143547422/0b02fd5a-aa38-45ba-b77d-6caba144aae2)
+
 
 ![image](https://github.com/OneDavidrdz131/uIIact5sheet0543/assets/143547422/5b6a6365-366e-4c6f-9019-1a3c23d5450e)
